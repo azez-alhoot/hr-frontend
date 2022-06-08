@@ -56,7 +56,7 @@ export default function Apply() {
                       onChange={(e) => saveToContext(e)}
                     >
                       <option value={0}>Please select an option</option>
-                      <option value="F">Finance</option>
+                      <option value="Finance">Finance</option>
                       <option value="IT">IT</option>
                       <option value="HR">HR</option>
                     </select>

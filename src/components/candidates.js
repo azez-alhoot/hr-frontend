@@ -14,7 +14,7 @@ export default function Candidates() {
 
   return (
     <>
-      <h1 className='mb-5 mt-5 text-center'>Candi dates List</h1>
+      <h1 className='mb-5 mt-5 text-center'>Candidates List</h1>
       <div className='mt-5'>
         <div className='col-md-8 offset-md-2'>
           <Table striped bordered hover size="sm">
