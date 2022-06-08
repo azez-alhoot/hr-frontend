@@ -1,0 +1,78 @@
+.member-info-body {
+    margin: auto;
+    text-align: center;
+}
+
+.member-info {
+    position: absolute;
+    top: 20%;
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    right: 24%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.member-info-area {
+    width: 90%;
+    margin: 5% auto 40px auto;
+    text-align: left;
+
+}
+
+.input-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.edit-member-input {
+    padding: 0 0 5% 0;
+    width: 100%;
+    flex-basis: 49%;
+}
+
+.MuiFormControl-marginNormal {
+    margin: 0 0 0 0;
+}
+
+.dropdown-label {
+    display: none;
+}
+
+
+.edit-member-form-btns {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.edit-member-dropdown {
+    background-color: #fff;
+    font-size: 16px;
+    color: #000;
+    width: 100%;
+    box-shadow: none;
+    height: 50px;
+    padding: 15px;
+}
+
+
+.height {
+    display: flex;
+}
+
+.btn-apply {
+    text-transform: uppercase;
+    outline: 0;
+    background: #4CAF50;
+    width: 50%;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+}
